@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">POC-MVVM</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="enter_detail">Enter Detail</string>
+</resources>
